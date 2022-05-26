@@ -1,0 +1,6 @@
+- Crie um HTML com um elemento pai e um elemento filho
+- Crie um estilo para os elementos
+- Crie o novo elemento filho que virá após o irmão
+- Receba a referência do elemento irmão
+- Receba a referência do elemento pai através do elemento irmão
+- Insira o elemento criado
